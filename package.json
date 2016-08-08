@@ -8,8 +8,8 @@
   },
   "author": "Marc Byndas",
   "license": "MIT",
+  "engines": {"node":"~0.10.21"},
   "dependencies": {
-    "express": "^4.14.0",
-    "node": "0.12.7"
+    "express": "^4.14.0"
   }
 }
